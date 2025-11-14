@@ -1,40 +1,31 @@
 👋 Hi, I'm Rais Afshan
 
-Python Full-Stack Developer | Primal Codes Technologies
+I’m a passionate Python Full-Stack Developer working at **Primal Codes Technologies**, specializing in building clean, scalable, and efficient web applications.
 
-I’m a passionate Python Full-Stack Developer working at Primal Codes Technologies, specializing in building clean, scalable, and efficient web applications.
+---
 
-💻 Tech Stack
+## 💻 Tech Stack
+- **Backend:** Python, Django, Django REST Framework (DRF)
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Templates:** Django Templates (HTML, CSS, JS integration)
+- **Database:** PostgreSQL, MySQL, SQLite
+- **Other Skills:** API Development, Authentication, Payments, WebSockets, Git
 
-Backend: Python, Django, Django REST Framework (DRF)
+---
 
-Frontend: React, JavaScript, HTML, CSS
+## 🚀 What I Do
+- Build full-stack apps using Django, DRF, and React
+- Develop projects using Django Templates with HTML/CSS/JS
+- Create secure REST APIs
+- Work on real-time and production-grade applications
+- Optimize applications for performance and scalability
 
-Templates: Django Templates (HTML, CSS, JS integration)
+---
 
-Database: PostgreSQL, MySQL, SQLite
-
-Other Skills: API Development, Authentication, Payments, WebSockets, Git
-
-🚀 What I Do
-
-Build full-stack apps using Django, DRF, and React
-
-Develop projects using Django Templates with HTML/CSS/JS
-
-Create secure REST APIs
-
-Work on real-time and production-grade applications
-
-Optimize applications for performance and scalability
-
-📂 Projects I've Worked On
-
-Django template-based web apps
-
-Full-stack applications using Django + React
-
-API-driven applications with DRF
+## 📂 Projects I've Worked On
+- Django template-based web apps
+- Full-stack applications using Django + React
+- API-driven applications with DRFF
 
 <!--
 **RaisAfshan/RaisAfshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
